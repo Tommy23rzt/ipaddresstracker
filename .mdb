@@ -1,0 +1,9 @@
+{
+  "projectName": "IpAddressTracker",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "3042f1c8",
+  "domain": "ipaddresstrackerRZT.mdbgo.io"
+}
